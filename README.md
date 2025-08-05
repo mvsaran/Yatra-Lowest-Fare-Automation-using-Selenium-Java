@@ -104,11 +104,3 @@ git push -u origin main
 ```
 
 ---
-
-## 🏷 Suggested LinkedIn Title
-
-**"Automated Yatra's calendar to find the lowest airfare using Selenium & Java ✈️💻 | Real-World POM Framework Implementation"**
-
-
-
-
